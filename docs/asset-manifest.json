@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.c47b274a.js",
-    "index.html": "/index.html",
-    "main.c47b274a.js.map": "/static/js/main.c47b274a.js.map"
+    "main.js": "/treasure-coast-weather/static/js/main.c47b274a.js",
+    "index.html": "/treasure-coast-weather/index.html",
+    "main.c47b274a.js.map": "/treasure-coast-weather/static/js/main.c47b274a.js.map"
   },
   "entrypoints": [
     "static/js/main.c47b274a.js"
